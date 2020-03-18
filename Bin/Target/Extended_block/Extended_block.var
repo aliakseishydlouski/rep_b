@@ -1,0 +1,14 @@
+[UnitTInfo]
+UnitTDescription=PCO5
+HWid=0
+SWid=
+SWver=Extended_block 0 1
+DefaultVar=
+VarListFormat= VarName; VType; VAddr; R/W; Descr; MinVal; MaxVal; DefaultVal; MeasUnit; Group; ShortDescr; DetailedDescr
+
+[VarList]
+
+[DataLogging]
+
+[SynchClock]
+

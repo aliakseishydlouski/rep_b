@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FILE_2CT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HEADER SCHEMA_VERSION="2" />
+  <LANGUAGES_DEFINITION ISO_NAME_DEFAULT="RU">
+    <LANGUAGES>
+      <LANGUAGE ISO_NAME="RU">
+        <LANGUAGE_DESCRIPTION_KEYS>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_1">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B1 [тип датчика]" DESCRIPTION="Вход B1 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B1 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_2">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B2 [тип датчика]" DESCRIPTION="Вход B2 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B2 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_3">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B3 [тип датчика]" DESCRIPTION="Вход B3 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B3 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_4">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B4 [тип датчика]" DESCRIPTION="Вход B4 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B4 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_5">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B5 [тип датчика]" DESCRIPTION="Вход B5 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B5 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_6">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B6 [тип датчика]" DESCRIPTION="Вход B6 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B6 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_7">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B7 [тип датчика]" DESCRIPTION="Вход B7 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B7 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_8">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B8 [тип датчика]" DESCRIPTION="Вход B8 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B8 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_9">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B9 [тип датчика]" DESCRIPTION="Вход B9 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B9 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_10">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B10 [тип датчика]" DESCRIPTION="Вход B10 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B10 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_1">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B1 [функция датчика]" DESCRIPTION="Вход B1 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B1 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_2">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B2 [функция датчика]" DESCRIPTION="Вход B2 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B2 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_3">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B3 [функция датчика]" DESCRIPTION="Вход B3 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B3 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_4">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B4 [функция датчика]" DESCRIPTION="Вход B4 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B4 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_5">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B5 [функция датчика]" DESCRIPTION="Вход B5 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B5 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_6">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B6 [функция датчика]" DESCRIPTION="Вход B6 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B6 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_7">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B7 [функция датчика]" DESCRIPTION="Вход B7 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B7 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_8">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B8 [функция датчика]" DESCRIPTION="Вход B8 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B8 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_9">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B9 [функция датчика]" DESCRIPTION="Вход B9 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B9 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_10">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B10 [функция датчика]" DESCRIPTION="Вход B10 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B10 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_11">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B11 [функция датчика]" DESCRIPTION="Вход B11 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B11 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_12">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B12 [функция датчика]" DESCRIPTION="Вход B12 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B12 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_13">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B13 [функция датчика]" DESCRIPTION="Вход B13 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B13 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_14">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B14 [функция датчика]" DESCRIPTION="Вход B14 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B14 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_15">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B15 [функция датчика]" DESCRIPTION="Вход B15 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B15 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_16">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B16 [функция датчика]" DESCRIPTION="Вход B16 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B16 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_17">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B17 [функция датчика]" DESCRIPTION="Вход B17 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B17 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_18">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B18 [функция датчика]" DESCRIPTION="Вход B18 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B18 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_19">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B19 [функция датчика]" DESCRIPTION="Вход B19 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B19 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="SF_B_20">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B20 [функция датчика]" DESCRIPTION="Вход B20 [функция датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B20 [функция датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_11">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B11 [тип датчика]" DESCRIPTION="Вход B11 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B11 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_12">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B12 [тип датчика]" DESCRIPTION="Вход B12 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B12 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_13">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B13 [тип датчика]" DESCRIPTION="Вход B13 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B13 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_14">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B14 [тип датчика]" DESCRIPTION="Вход B14 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B14 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_15">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B15 [тип датчика]" DESCRIPTION="Вход B15 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B15 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_16">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B16 [тип датчика]" DESCRIPTION="Вход B16 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B16 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_17">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B17 [тип датчика]" DESCRIPTION="Вход B17 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B17 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_18">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B18 [тип датчика]" DESCRIPTION="Вход B18 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B18 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_19">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B19 [тип датчика]" DESCRIPTION="Вход B19 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B19 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ST_B_20">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B20 [тип датчика]" DESCRIPTION="Вход B20 [тип датчика]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B20 [тип датчика]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_1">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B1 [номер зоны]" DESCRIPTION="Вход B1 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B1 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_2">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B2 [номер зоны]" DESCRIPTION="Вход B2 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B2 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_3">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B3 [номер зоны]" DESCRIPTION="Вход B3 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B3 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_4">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B4 [номер зоны]" DESCRIPTION="Вход B4 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B4 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_5">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B5 [номер зоны]" DESCRIPTION="Вход B5 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B5 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_6">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B6 [номер зоны]" DESCRIPTION="Вход B6 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B6 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_7">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B7 [номер зоны]" DESCRIPTION="Вход B7 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B7 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_8">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B8 [номер зоны]" DESCRIPTION="Вход B8 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B8 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_9">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B9 [номер зоны]" DESCRIPTION="Вход B9 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B9 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_10">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B10 [номер зоны]" DESCRIPTION="Вход B10 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B10 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_11">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B11 [номер зоны]" DESCRIPTION="Вход B11 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B11 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_12">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B12 [номер зоны]" DESCRIPTION="Вход B12 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B12 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_13">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B13 [номер зоны]" DESCRIPTION="Вход B13 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B13 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_14">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B14 [номер зоны]" DESCRIPTION="Вход B14 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B14 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_15">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B15 [номер зоны]" DESCRIPTION="Вход B15 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B15 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_16">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B16 [номер зоны]" DESCRIPTION="Вход B16 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B16 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_17">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B17 [номер зоны]" DESCRIPTION="Вход B17 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B17 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_18">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B18 [номер зоны]" DESCRIPTION="Вход B18 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B18 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_19">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B19 [номер зоны]" DESCRIPTION="Вход B19 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B19 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="ZN_B_20">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="Вход B20 [номер зоны]" DESCRIPTION="Вход B20 [номер зоны]" SHORT_DESCRIPTION="" LONG_DESCRIPTION="Вход B20 [номер зоны]" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_1">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_2">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_3">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_4">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_5">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_6">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_7">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_8">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_9">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_MASTER_FLAG_B_10">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_1">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_2">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_3">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_4">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_5">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_6">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_7">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_8">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_9">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+          <LANGUAGE_DESCRIPTION_KEY NAME="AIN_SLAVE_FLAG_B_10">
+            <TRANSLATIONS>
+              <TRANSLATION COMMENT="" DESCRIPTION="" SHORT_DESCRIPTION="" LONG_DESCRIPTION="" ORDER="0" />
+            </TRANSLATIONS>
+            <TRANSLATION_ITEMS />
+          </LANGUAGE_DESCRIPTION_KEY>
+        </LANGUAGE_DESCRIPTION_KEYS>
+      </LANGUAGE>
+    </LANGUAGES>
+  </LANGUAGES_DEFINITION>
+  <Filled>false</Filled>
+</FILE_2CT>

@@ -1,0 +1,16 @@
+
+PROGRAM main
+
+{REGION Inizialisation. Send to Master type of controller}
+
+IF INIZIALIZATION_1 = FALSE THEN
+	SlavePCOtype:=GET_BOARD_TYPE();
+	INIZIALIZATION_1:=TRUE;
+	RETURN;
+END_IF;
+
+PLAN_BOARD_TYPE:=UINT_TO_INT(SlavePCOtype);
+
+{ENDREGION}
+
+END_PROGRAM

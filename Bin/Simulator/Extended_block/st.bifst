@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<STLOG compileTime="Mon Mar 09 08:44:47 2020" compilerVersion="1,0,0,0">
+  <DEBUG_INFO>
+    <FILE_REFERENCE>
+      <FILE number="-1" name="C:\PROGRA~2\CAREL\1tool\Plugins\STEditor\Library\library.st" />
+      <FILE number="0" name="C:\Users\Aliaksei\Desktop\BANANA~1\BANANA~1\Projects\EXTEND~1\Strategy\TASK-M~1\CONSTA~1.ST" />
+      <FILE number="1" name="C:\Users\Aliaksei\Desktop\BANANA~1\BANANA~1\Projects\EXTEND~1\Strategy\TASK-M~1\RETAIN~1.ST" />
+      <FILE number="2" name="C:\Users\Aliaksei\Desktop\BANANA~1\BANANA~1\Projects\EXTEND~1\Strategy\TASK-M~1\GLOBAL~1.ST" />
+      <FILE number="3" name="C:\Users\Aliaksei\Desktop\BANANA~1\BANANA~1\Projects\EXTEND~1\Strategy\TASK-M~1\Main.st" />
+    </FILE_REFERENCE>
+    <DBI file="3" line="2" ref="U00000015" offset="40" />
+    <DBI file="3" line="2" ref="U00000018" ajsr="true" offset="48" />
+    <DBI file="3" line="6" ref="U00000019" offset="54" />
+    <DBI file="3" line="6" ref="U00000020" offset="62" />
+    <DBI file="3" line="6" ref="U00000021" offset="70" />
+    <DBI file="3" line="6" ref="U00000022" offset="74" />
+    <DBI file="3" line="7" ref="U00000023" offset="80" />
+    <DBI file="3" line="7" ref="U00000024" ajsr="true" offset="86" />
+    <DBI file="3" line="8" ref="U00000025" offset="94" />
+    <DBI file="3" line="8" ref="U00000026" offset="102" />
+    <DBI file="3" line="9" ref="U00000027" offset="110" />
+    <DBI file="3" line="12" ref="U00000029" offset="116" />
+    <DBI file="3" line="12" ref="U00000030" />
+    <DBI file="3" line="12" ref="U00000031" offset="124" />
+    <DBI file="3" line="16" ref="U00000033" offset="132" />
+    <DBI file="-1" line="3450" ref="U00000035" offset="134" />
+    <DBI file="-1" line="3451" ref="U00000036" offset="140" />
+    <DBI file="-1" line="3451" ref="U00000037" offset="148" />
+    <DBI file="-1" line="3452" ref="U00000038" offset="156" />
+    <DBI file="-1" line="3452" ref="U00000039" offset="164" />
+  </DEBUG_INFO>
+  <USER_TYPES>
+    <STRUCTURES>
+    </STRUCTURES>
+  </USER_TYPES>
+  <VAR_GLOBAL>
+    <VAR name="_ERR_NUMBER_" type="UDINT" size="4">
+    </VAR>
+    <VAR name="_P1_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P2_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P3_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P4_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P5_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P6_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P7_" type="INT" size="2">
+    </VAR>
+    <VAR name="_P8_" type="INT" size="2">
+    </VAR>
+    <VAR name="_B1_" type="BOOL" size="1">
+    </VAR>
+    <VAR name="_B2_" type="BOOL" size="1">
+    </VAR>
+    <VAR name="_B3_" type="BOOL" size="1">
+    </VAR>
+    <VAR name="_B4_" type="BOOL" size="1">
+    </VAR>
+    <VAR name="SLAVEPCOTYPE" type="UINT" size="2" isRetain="true">
+    </VAR>
+    <VAR name="ISSLAVECONTROLLER" type="BOOL" size="1">
+    </VAR>
+  </VAR_GLOBAL>
+  <POUs maxReturnStackSize="2">
+    <FUNCTION name="_get_board_type_" username="GET_BOARD_TYPE" datasize="2">
+      <LOCATION>
+        <FILE_NUMBER>-1</FILE_NUMBER>
+        <START line="3450" ref="U00000035" offset="134" />
+        <END line="3452" ref="U00000039" offset="164" />
+      </LOCATION>
+      <VARIABLES>
+        <VAR name="GET_BOARD_TYPE" size="2" type="UINT" offset="0" formaltype="LOCAL">
+        </VAR>
+      </VARIABLES>
+    </FUNCTION>
+    <PROGRAM name="_main_" username="main" datasize="0">
+      <LOCATION>
+        <FILE_NUMBER>3</FILE_NUMBER>
+        <START line="2" ref="U00000018" offset="48" />
+        <END line="16" ref="U00000033" offset="132" />
+      </LOCATION>
+      <VARIABLES>
+      </VARIABLES>
+    </PROGRAM>
+  </POUs>
+  <CALL_TREE>
+    <_main_>
+      <_get_board_type_>
+      </_get_board_type_>
+    </_main_>
+  </CALL_TREE>
+  <USED_IN_VV>
+    <VAR name="PLAN_BOARD_TYPE">
+    </VAR>
+    <VAR name="INIZIALIZATION_1">
+    </VAR>
+  </USED_IN_VV>
+</STLOG>
