@@ -104,7 +104,7 @@ TOT_DO_Q:= Q_DO_M + Q_DO_S;
 
 {ENDREGION}
 
-{REGION AIN SCREEN CONFIG INIZIALIZATION} /// СДЕЛАТЬ ТРИГЕР!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+{REGION AIN SCREEN CONFIG INIZIALIZATION} 
 
 	IF PCO_QUANTITY = 1 THEN
 		AIN_MASTER_FLAG_B_6:= Q_AI_M > 5;
