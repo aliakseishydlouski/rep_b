@@ -110,6 +110,7 @@
         <Variable NAME="TOT_DIN_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" />
         <Variable NAME="TOT_AO_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" />
         <Variable NAME="TOT_DO_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" />
+        <Variable NAME="START" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" />
       </Variables>
     </Category>
     <Category NAME="InputOutput" HIDE="false">
@@ -926,6 +927,7 @@
     <Variable NAME="TOT_DIN_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" NOTE="" />
     <Variable NAME="TOT_AO_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" NOTE="" />
     <Variable NAME="TOT_DO_Q" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" NOTE="" />
+    <Variable NAME="START" WATCH="0" LOG="0" GRAPH="0" ACCESSLEVEL="0" EVENT="0" NOTE="" />
   </Variables>
   <WatchGroups />
   <Setups />

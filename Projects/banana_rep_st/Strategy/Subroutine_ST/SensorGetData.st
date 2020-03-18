@@ -16,5 +16,10 @@ VAR_INPUT
 	lowValue:INT;
 	highValue:INT;
 END_VAR
-	;
+
+VAR
+	temp:INT;
+END_VAR
+	Ain_Conf(inputNum,sensorType,temp);
+	Get_Sensor_Data:=temp;
 END_FUNCTION

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<channels>
+  <pCO name="PCO5Large">
+    <type name="AIN">
+      <channel number="5" value="53" />
+    </type>
+  </pCO>
+</channels>

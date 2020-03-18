@@ -4,5 +4,6 @@ VAR_GLOBAL
 	TOT_DIN_Q:INT;
 	TOT_AO_Q:INT;
 	TOT_DO_Q:INT;
-
+	
+	start:INT;
 END_VAR
