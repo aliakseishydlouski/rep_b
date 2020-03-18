@@ -151,7 +151,7 @@ END_IF;
 
 {ENDREGION}
 
-Get_Sensor_Data(1,ST_B_1,AIN_MASTER_FLAG_B_1,0,0);
+start:=Get_Sensor_Data(1,ST_B_1,AIN_MASTER_FLAG_B_1,0,0);
 
 
 END_PROGRAM
